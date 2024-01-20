@@ -8,7 +8,7 @@ This course provides an introduction to the quantitative foundations of data sci
 These assignements require the following packages of [Python 3](https://www.python.org/downloads/).
 Some of the packages are mentioned below:
 
-- numpy '''!pip3 install numpy'''
-- pandas '''!pip3 install pandas'''
+- numpy ```!pip3 install numpy```
+- pandas ```!pip3 install pandas```
 
-Clone the repository:
+Clone the repository: ```git clone https://github.com/ostwalaman/DSCI-501-001.git```
