@@ -18,8 +18,8 @@ Clone the repository: ```git clone https://github.com/ostwalaman/DSCI-501-001.gi
 Below are the assignmnets for the above course:
 
 - Homework
-- - Assignment 1
-- - Assignment 2
+  - Assignment 1
+  - Assignment 2
 
 - Python Homework
-- - Assignment 1
+  - Assignment 1
