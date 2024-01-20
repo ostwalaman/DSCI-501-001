@@ -12,3 +12,14 @@ Some of the packages are mentioned below:
 - pandas ```!pip3 install pandas```
 
 Clone the repository: ```git clone https://github.com/ostwalaman/DSCI-501-001.git```
+
+## Assignments
+
+Below are the assignmnets for the above course:
+
+- Homework
+- - Assignment 1
+- - Assignment 2
+
+- Python Homework
+- - Assignment 1
