@@ -10,6 +10,9 @@ Some of the packages are mentioned below:
 
 - numpy ```!pip3 install numpy```
 - pandas ```!pip3 install pandas```
+- matplotlib ```pip install matplotlib```
+- scipy ```pip install scipy```
+- scikit-learn ```pip install scikit-learn```
 
 Clone the repository: ```git clone https://github.com/ostwalaman/DSCI-501-001.git```
 
@@ -20,6 +23,10 @@ Below are the assignmnets for the above course:
 - Homework
   - Assignment 1
   - Assignment 2
+  - Assignment 3
 
 - Python Homework
   - Assignment 1
+  - Assignment 2
+  - Assignment 3
+  - Assignment 4
